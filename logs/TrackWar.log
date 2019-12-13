@@ -1,0 +1,25 @@
+[INFO_|12/13 03:40:20|StartupInit.preInitialization:134] Version: 2.6.5
+[INFO_|12/13 03:40:20|StartupInit.preInitialization:138] GTS_HOME: /usr/local/OpenGTS_2.6.5
+[INFO_|12/13 03:40:20|OSTools.printMemoryUsage:1307] Memory-Mb: Max=843.0, Total=72.5, Free=37.1, Used=35.4 [4%]
+[INFO_|12/13 03:40:21|RTConfigContextListener.contextInitialized:290] java.awt.headless=false
+[INFO_|12/13 03:41:21|StartupInit.preInitialization:134] Version: 2.6.5
+[INFO_|12/13 03:41:21|StartupInit.preInitialization:138] GTS_HOME: /usr/local/OpenGTS_2.6.5
+[INFO_|12/13 03:41:21|OSTools.printMemoryUsage:1307] Memory-Mb: Max=843.0, Total=102.5, Free=79.0, Used=23.5 [3%]
+[INFO_|12/13 03:41:22|RTConfigContextListener.contextInitialized:290] java.awt.headless=false
+[INFO_|12/13 03:43:25|Track._doWork:1614] Login Account/User: support/admin [From 103.85.105.224]
+[INFO_|12/13 03:43:25|OSTools.printMemoryUsage:1307] Memory-Mb: Max=843.0, Total=152.0, Free=41.0, Used=111.0 [13%]
+[INFO_|12/13 03:43:25|Audit.userLoginOK:183] Login(OK): Time=1576226605 Domain=default Account=support User=admin IP=103.85.105.224 Notes=http://103.47.185.202:8080/track/Track
+[WARN_|12/13 03:43:30|ReportSpreadsheet.GetExcelSpreadsheetClass:68] Excel interface not supported: java.lang.ClassNotFoundException: org.opengts.util.ExcelTools$Spreadsheet
+[INFO_|12/13 03:43:33|ReportDisplay.writePage:574] ReportID: EventDetail
+[ERROR|12/13 03:43:33|ReportDisplay.writePage:687] Device not specified: EventDetail
+[ERROR|12/13 03:44:00|DBFieldValues._setFieldValue:258] Field does not exist: Device.supportedEncodings
+[ERROR|12/13 03:44:00|DBFieldValues._setFieldValue:258] Field does not exist: Device.totalMaxConn
+[ERROR|12/13 03:44:00|DBFieldValues._setFieldValue:258] Field does not exist: Device.duplexMaxConn
+[ERROR|12/13 03:44:00|DBFieldValues._setFieldValue:258] Field does not exist: Device.unitLimitInterval
+[ERROR|12/13 03:44:00|DBFieldValues._setFieldValue:258] Field does not exist: Device.totalMaxConnPerMin
+[ERROR|12/13 03:44:00|DBFieldValues._setFieldValue:258] Field does not exist: Device.duplexMaxConnPerMin
+[ERROR|12/13 03:44:00|DBFieldValues._setFieldValue:258] Field does not exist: Device.maxAllowedEvents
+[INFO_|12/13 03:44:10|DBConnection.closeAllConnections:418] Closed all open DBConnections: 0
+[INFO_|12/13 03:44:11|RTConfigContextListener.contextDestroyed:322] Remaining pool threads [0]: 0
+[INFO_|12/13 03:44:11|RTConfigContextListener.contextDestroyed:325] ... Servlet Context destroyed: TrackWar
+[INFO_|12/13 03:44:11|RTConfigContextListener.contextDestroyed:326] -----------------------------------------------
